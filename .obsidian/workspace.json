@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.1 Definitions & Keywords — PHP.md",
+                "file": "02 PHP + MySQL + WordPress/PHP/02 APPLIED PRACTICE — PHP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 Definitions & Keywords — PHP"
+              "title": "02 APPLIED PRACTICE — PHP"
+            }
+          },
+          {
+            "id": "640ece5a29540ac5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Variables & types for php.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Variables & types for php"
+            }
+          },
+          {
+            "id": "b3594d5531b1ef14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/SECTION 1 — CORE/1.1.4 Hyperlinks & Navigation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1.4 Hyperlinks & Navigation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,20 +243,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3ea8d591869e90f",
+  "active": "640ece5a29540ac5",
   "lastOpenFiles": [
-    "02 PHP + MySQL + WordPress/PHP/01 Foundation - PHP.md",
-    "1.1 Definitions & Keywords — PHP.md",
+    "02 PHP + MySQL + WordPress/PHP/02 APPLIED PRACTICE — PHP.md",
+    "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/SECTION 1 — CORE/1.1.4 Hyperlinks & Navigation.md",
+    "Variables & types for php.md",
+    "Untitled.md",
+    "Untitled 1.md",
     "x.md",
-    "11th/01 FOUNDATION - 11TY.md",
-    "1.1 Definitions & Keywords — Eleventy (11ty).md",
-    "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/01 FOUNDATIONS — HTML5x.md",
-    "11th",
+    "11th/1.1 Definitions & Keywords — Eleventy (11ty).md",
+    "02 PHP + MySQL + WordPress/PHP/1.1 Definitions & Keywords — PHP.md",
     "@bin/MAP.md",
-    "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/02 APPLIED PRACTICE — HTML5 1.md",
-    "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/SECTION 1 — CORE/Sectioning vs grouping.md",
+    "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/SECTION 1 — CORE/1.1.3 Text Semantics & Content Meaning.md",
     "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/SECTION 1 — CORE/1.1.2 Sectioning & Structural Semantics.md",
     "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/SECTION 1 — CORE/1.1.1 HTML Document Skeleton.md",
+    "PHP2.0",
+    "02 PHP + MySQL + WordPress/PHP/01 Foundation - PHP.md",
+    "11th/01 FOUNDATION - 11TY.md",
+    "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/01 FOUNDATIONS — HTML5x.md",
+    "11th",
+    "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/02 APPLIED PRACTICE — HTML5 1.md",
+    "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/SECTION 1 — CORE/Sectioning vs grouping.md",
     "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/SECTION 1 — CORE/1.4.3 Error Tolerance & Compatibility Model.md",
     "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/SECTION 1 — CORE/1.4.2 Rendering Pipeline Interaction.md",
     "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/SECTION 1 — CORE/1.4.1 Parsing & DOM Construction.md",
@@ -235,14 +271,8 @@
     "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/SECTION 1 — CORE/1.3.2 ARIA Integration Boundaries.md",
     "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/SECTION 1 — CORE/1.3.1 Native Accessibility Semantics.md",
     "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/SECTION 1 — CORE/1.2.4 Form Accessibility Semantics.md",
-    "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/SECTION 1 — CORE/1.1.4 Hyperlinks & Navigation.md",
     "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/SECTION 1 — CORE/1.2.3 Native Validation & Feedback Semantics.md",
     "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/SECTION 1 — CORE/1.2.2 Input Controls & Types.md",
-    "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/SECTION 1 — CORE/1.2.1 Form Structure & Submission Model.md",
-    "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/SECTION 1 — CORE/1.1.5 Embedded Media & External Resources.md",
-    "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/Quizzes/Quizzes - Hyperlinks & Navigation.md",
-    "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/Quizzes/Quizzes - Text Semantics & Content Meaning.md",
-    "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/Quizzes/Quizzes — Sectioning vs Grouping (HTML5).md",
     "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/Quizzes",
     "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/SECTION 1 — CORE",
     "Prompt Engineering foundation document",
@@ -251,7 +281,6 @@
     "02 PHP + MySQL + WordPress/Mysql",
     "02 PHP + MySQL + WordPress/PHP",
     "@bin/trash",
-    "04 TypeScript + Tailwind + Next.js",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
