@@ -55,16 +55,46 @@ Treat variables as **named containers for values** and types as **contracts that
 - Keep arrays structured and predictable; avoid deeply inconsistent shapes.
 
 
-|**Topic**|**Brief Description**|
-|---|---|
-|**Variables in PHP**|Named containers prefixed with `$` used to store data values at runtime, dynamically typed and bound to values during script execution.|
-|**String type**|A sequence of characters used to represent text data, supporting single-quoted, double-quoted, heredoc, and nowdoc syntaxes with varying interpolation behavior.|
-|**Numeric types**|Scalar values representing numbers, primarily integers and floating-point numbers, used for arithmetic operations, indexing, and quantitative logic.|
-|**Array type**|An ordered map data structure that stores multiple values under keys, supporting indexed, associative, and multidimensional arrays for structured data representation.|
-|**Boolean type**|A logical data type with two possible values (`true` and `false`), used for control flow, condition evaluation, and decision-making logic.|
-|**Type flexibility**|PHP’s dynamic typing model where variable types are inferred from assigned values at runtime, allowing flexible but responsibility-driven type handling by the developer.|
+| **Topic**                | **Brief Description**                                                                                                                                                     |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[Variables in PHP]]** | Named containers prefixed with `$` used to store data values at runtime, dynamically typed and bound to values during script execution.                                   |
+| **String type**          | A sequence of characters used to represent text data, supporting single-quoted, double-quoted, heredoc, and nowdoc syntaxes with varying interpolation behavior.          |
+| **Numeric types**        | Scalar values representing numbers, primarily integers and floating-point numbers, used for arithmetic operations, indexing, and quantitative logic.                      |
+| **Array type**           | An ordered map data structure that stores multiple values under keys, supporting indexed, associative, and multidimensional arrays for structured data representation.    |
+| **Boolean type**         | A logical data type with two possible values (`true` and `false`), used for control flow, condition evaluation, and decision-making logic.                                |
+| **Type flexibility**     | PHP’s dynamic typing model where variable types are inferred from assigned values at runtime, allowing flexible but responsibility-driven type handling by the developer. |
 
 If you want, the next logical step is to add a **“How to Approach”** section for this topic using your preferred _Objective → Approach → Method → Constraints → Completion Criterion_ framework.
 
 ---
 
+## **Beginner Level — 3 Questions**
+
+1. What is a variable in PHP, and how do you declare and assign a value to it?
+    
+2. How do strings and numbers differ in PHP, and how can you output them using `echo`?
+    
+3. What are boolean values in PHP, and in what situations are they commonly used?
+## **Advanced Level — 4 Questions**
+
+1. Explain the difference between single-quoted and double-quoted strings in PHP. How does variable interpolation work?
+    
+2. How does PHP handle integers and floating-point numbers, and what are common pitfalls with numeric comparisons?
+    
+3. What are indexed and associative arrays in PHP, and how do you access and iterate over their elements?
+    
+4. How does PHP’s loose typing affect operations between strings, numbers, and booleans? Provide an example.
+## **Professional / Interview Level — 5 Questions**
+
+1. What is type juggling in PHP, and how can it lead to subtle bugs? How do strict comparisons (`===`) help?
+    
+2. Discuss PHP’s internal representation of strings, numbers, arrays, and booleans (zvals). How does this impact memory and performance?
+    
+3. How would you validate and sanitize mixed-type input (strings, numbers, booleans) from a user form in a secure PHP application?
+    
+4. In a large codebase, how would you enforce predictable variable types when PHP is dynamically typed? Discuss type hints, return types, and static analysis tools.
+    
+5. Describe a real-world scenario where choosing between arrays and objects significantly affects code clarity and maintainability. How would you decide?
+    
+
+---
