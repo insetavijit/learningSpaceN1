@@ -1,32 +1,9 @@
 ## **[[1.1 Definitions & Keywords — PHP]]**
 
 ```
-PHP (PHP: Hypertext Preprocessor) · Server-Side Scripting Language ·
-General-Purpose Programming Language ·
-Interpreted Language ·
-Dynamic Typing ·
-Weak Typing ·
-Imperative Programming ·
-Object-Oriented Programming ·
-Procedural Programming ·
-Server-Side Execution ·
-Request–Response Model ·
-Embedded Scripting ·
-PHP Runtime Engine · Zend Engine ·
-Execution Context ·
-Superglobals · $_GET · $_POST · $_REQUEST · $_SESSION · $_COOKIE · $_SERVER ·
-Stateless Execution Model ·
-File-Based Scripts ·
-Standard Library · Built-in Functions ·
-Extensions ·
-Composer · Dependency Management ·
-Namespaces · Autoloading (PSR-4) ·
-Error Handling · Exceptions ·
-Output Buffering ·
-PHP-FPM · Web Server Integration (Apache / Nginx)
+PHP (PHP: Hypertext Preprocessor) · Server-Side Scripting Language ·General-Purpose Programming Language · Interpreted Language ·Dynamic Typing ·Weak Typing ·Imperative Programming ·Object-Oriented Programming ·Procedural Programming ·Server-Side Execution ·Request–Response Model ·Embedded Scripting ·PHP Runtime Engine · Zend Engine ·Execution Context ·Superglobals · $_GET · $_POST · $_REQUEST · $_SESSION · $_COOKIE · $_SERVER ·Stateless Execution Model ·File-Based Scripts ·
+Standard Library · Built-in Functions ·Extensions ·Composer · Dependency Management ·Namespaces · Autoloading (PSR-4) ·Error Handling · Exceptions ·Output Buffering ·PHP-FPM · Web Server Integration (Apache / Nginx)
 ```
-
----
 
 ## **[[1.2 Core Principles — PHP]]**
 
@@ -43,8 +20,6 @@ PHP-FPM · Web Server Integration (Apache / Nginx)
 10. Backward-Compatible Evolution — Legacy code preserved across versions
 ```
 
----
-
 ## **[[1.3 Mental Models — PHP]]**
 
 ```
@@ -53,8 +28,6 @@ PHP-FPM · Web Server Integration (Apache / Nginx)
 3. Runtime Environment Model — Code executes within a server-managed runtime
 4. Object Lifecycle Model — Objects exist only for the duration of a request
 ```
-
----
 
 ## **[[1.4 Architecture Overview — PHP]]**
 
@@ -70,8 +43,6 @@ HTTP Response Sent →
 Process Ends
 ```
 
----
-
 ### **[[1.4.2 Components & Responsibilities — PHP]]**
 
 ```
@@ -84,8 +55,6 @@ Process Ends
 7. Output Buffer — Controls response generation and manipulation
 8. Web Server Interface — Connects PHP with HTTP servers
 ```
-
----
 
 ### **[[1.4.3 Data / Execution Flow — PHP]]**
 
@@ -100,8 +69,6 @@ Output Buffered →
 Response Returned →
 Execution Context Destroyed
 ```
-
----
 
 ## **[[1.5 Internals & Mechanics — PHP]]**
 
@@ -120,10 +87,6 @@ Execution Context Destroyed
 7. **Error Handling and Reporting** — Runtime warnings, notices, and exceptions
     
 8. **Extension Loading Model** — Modular capability injection at startup or runtime
-    
-
----
-
 ## **[[1.6 Limitations & Trade-offs — PHP]]**
 
 |Limitation|Impact / Trade-off|
@@ -135,25 +98,9 @@ Execution Context Destroyed
 |**Concurrency Handling**|Relies on server/process model, not language primitives|
 |**Historical Inconsistencies**|Legacy design decisions affect modern usage|
 |**Security Responsibility**|Input validation and sanitization are developer-managed|
-
----
-
 ## 🎓 **Micro-Conclusion (Inline Insight)**
 
 > Section 1 defines PHP as a **request-scoped, server-side execution environment** optimized for **dynamic content generation** within the HTTP lifecycle.  
 > Its architecture emphasizes simplicity, extensibility, and integration with web servers, while trading off long-lived state and intrinsic concurrency control.
 
 ---
-
-If you want the **same academic-grade document** next for:
-
-- MySQL / SQL
-    
-- Laravel
-    
-- WordPress
-    
-- REST APIs
-    
-
-State the subject only.
