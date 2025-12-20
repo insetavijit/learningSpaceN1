@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE - Bootstrap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "02 APPLIED PRACTICE - Bootstrap"
             }
           }
         ]
@@ -33,30 +33,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE — Bootstrap.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02 APPLIED PRACTICE — Bootstrap"
-            }
-          },
-          {
-            "id": "46c25807d4f93af8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.2.1 Containers & Layout Boundaries.md",
+                "file": "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.2.7 Alignment & Distribution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2.1 Containers & Layout Boundaries"
+              "title": "1.2.7 Alignment & Distribution"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.2.1 Containers & Layout Boundaries.md",
+                "file": "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE - Bootstrap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.2.1 Containers & Layout Boundaries"
+              "title": "Outline of 02 APPLIED PRACTICE - Bootstrap"
             }
           }
         ]
@@ -249,14 +234,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0729291cb30c5df",
+  "active": "b3ea8d591869e90f",
   "lastOpenFiles": [
+    "1.2 Grid System & Responsive Layouts.md",
+    "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.2.7 Alignment & Distribution.md",
     "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE - Bootstrap.md",
-    "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE",
+    "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.2.6 Row Columns & Nesting.md",
+    "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.2.4 Gutters & Spacing.md",
+    "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.2.5 Column Ordering & Offsetting.md",
+    "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.2.3 Grid Columns & Sizing.md",
+    "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE — Bootstrap.md",
+    "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.2.2 Breakpoints & Grid Tiers.md",
     "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.2.1 Containers & Layout Boundaries.md",
+    "Untitled 1.md",
+    "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE",
     "Chet bootstrap - Responsive Container Variants.md",
     "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/Quizzes/Quizzes — Sectioning vs Grouping (HTML5).md",
-    "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE — Bootstrap.md",
     "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/02 APPLIED PRACTICE — HTML5 2.md",
     "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/SECTION 1 — CORE/1.1.1 HTML Document Skeleton.md",
     "01 HTML + CSS + JavaScript + Bootstrap/02 CSS/01 Foundation.md",
@@ -264,7 +257,6 @@
     "01 HTML + CSS + JavaScript + Bootstrap/02 CSS/02 APPLIED PRACTICE/02 APPLIED PRACTICE — Css.md",
     "01 HTML + CSS + JavaScript + Bootstrap/02 CSS/02 APPLIED PRACTICE",
     "01 HTML + CSS + JavaScript + Bootstrap/02 CSS/1.1.1 Stylesheet Structure & Inclusion Model.md",
-    "Untitled 1.md",
     "Untitled.md",
     "02 PHP + MySQL + WordPress/PHP/Variables in PHP.md",
     "02 PHP + MySQL + WordPress/PHP/Variable Declaration.md",
@@ -272,13 +264,7 @@
     "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/SECTION 1 — CORE/1.1.4 Hyperlinks & Navigation.md",
     "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/SECTION 1 — CORE/1.1.3 Text Semantics & Content Meaning.md",
     "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/SECTION 1 — CORE/1.1.2 Sectioning & Structural Semantics.md",
-    "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/SECTION 1 — CORE/1.2.1 Form Structure & Submission Model.md",
-    "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/02 APPLIED PRACTICE — HTML5 1.md",
-    "02 PHP + MySQL + WordPress/PHP/APPLIED PRACTICE/Variables, Types & Operators.md",
-    "02 PHP + MySQL + WordPress/PHP/2.0 APPLIED PRACTICE — PHP.md",
-    "02 PHP + MySQL + WordPress/PHP/Supliments/Common String Functions — Expanded Table.md",
     "02 PHP + MySQL + WordPress/PHP/Supliments",
-    "02 PHP + MySQL + WordPress/PHP/APPLIED PRACTICE/Control Flow & Iteration/Ternary-Operator.spl.md",
     "02 PHP + MySQL + WordPress/PHP/APPLIED PRACTICE/Control Flow & Iteration",
     "02 PHP + MySQL + WordPress/PHP/APPLIED PRACTICE",
     "02 PHP + MySQL + WordPress/PHP/ACTIVE RECALL",

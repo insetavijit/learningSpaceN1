@@ -20,7 +20,7 @@ This section establishes Bootstrap's role as a component-based CSS framework and
 
 ---
 
-## **1.2 Grid System & Responsive Layouts**
+## **[[1.2 Grid System & Responsive Layouts]]**
 
 ### **Learning Intent (~90–100 words)**
 
