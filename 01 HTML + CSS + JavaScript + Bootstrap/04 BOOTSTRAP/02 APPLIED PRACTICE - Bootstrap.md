@@ -38,20 +38,20 @@ Bootstrap's 12-column grid system is the foundation of responsive layouts. This 
 
 ---
 
-## **1.3 Typography & Content Styling**
+## **[[1.3 Typography & Content Styling]]**
 
 ### **Learning Intent (~75–85 words)**
 
 Bootstrap provides typographic scale, text utilities, and content styling for consistent document structure. This section teaches how Bootstrap enhances native HTML typography with responsive sizing, utility classes, and semantic styling. Learners understand how to maintain readable, accessible text hierarchies while leveraging Bootstrap's pre-configured type system. The focus is on building content-rich pages with proper heading structures, lists, blockquotes, and inline text modifiers without reinventing typographic patterns.
 
-|Topic|Focus & Purpose|
-|---|---|
-|**[[1.3.1 Headings & Display Typography]]**|Heading classes (`.h1`–`.h6`); display headings (`.display-1`–`.display-6`); customizing heading styles; responsive heading sizes.|
-|**[[1.3.2 Paragraphs & Body Text]]**|Lead paragraphs (`.lead`); line height and spacing; text sizing utilities; responsive typography behavior.|
-|**[[1.3.3 Inline Text Elements]]**|Bold, italic, underline, strikethrough, mark, small text utilities; semantic vs presentational styling; code and keyboard elements.|
-|**[[1.3.4 Text Alignment & Transformation]]**|Alignment classes (`.text-start`, `.text-center`, `.text-end`); text transformation (`.text-lowercase`, `.text-uppercase`, `.text-capitalize`); responsive alignment.|
-|**[[1.3.5 Lists & List Groups]]**|Unstyled lists (`.list-unstyled`); inline lists (`.list-inline`); definition lists; list group components for interactive lists.|
-|**[[1.3.6 Blockquotes & Citations]]**|`.blockquote` styling; footer attribution; reverse blockquotes; quote alignment.|
+| Topic                                         | Focus & Purpose                                                                                                                                                       |
+| --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[1.3.1 Headings & Display Typography]]**   | Heading classes (`.h1`–`.h6`); display headings (`.display-1`–`.display-6`); customizing heading styles; responsive heading sizes.                                    |
+| **[[1.3.2 Paragraphs & Body Text]]**          | Lead paragraphs (`.lead`); line height and spacing; text sizing utilities; responsive typography behavior.                                                            |
+| **[[1.3.3 Inline Text Elements]]**            | Bold, italic, underline, strikethrough, mark, small text utilities; semantic vs presentational styling; code and keyboard elements.                                   |
+| **[[1.3.4 Text Alignment & Transformation]]** | Alignment classes (`.text-start`, `.text-center`, `.text-end`); text transformation (`.text-lowercase`, `.text-uppercase`, `.text-capitalize`); responsive alignment. |
+| **[[1.3.5 Lists & List Groups]]**             | Unstyled lists (`.list-unstyled`); inline lists (`.list-inline`); definition lists; list group components for interactive lists.                                      |
+| **[[1.3.6 Blockquotes & Citations]]**         | `.blockquote` styling; footer attribution; reverse blockquotes; quote alignment.                                                                                      |
 
 ---
 
@@ -94,12 +94,12 @@ Bootstrap components are pre-built UI patterns with HTML structure, CSS styling,
 
 ### **1.6.1 Navigation Components**
 
-|Component|Focus & Purpose|
-|---|---|
-|**Navbar**|Responsive navigation bars; brand placement; collapse behavior; navbar variants (light, dark); dropdown integration; sticky/fixed positioning.|
-|**Nav & Tabs**|Horizontal and vertical navigation; tab interfaces; pill styling; justified navigation; JavaScript tab switching; accessibility with ARIA.|
-|**Breadcrumb**|Hierarchical navigation; divider customization; responsive breadcrumbs; accessibility with `aria-label`.|
-|**Pagination**|Page navigation controls; sizing variants; active and disabled states; previous/next buttons; alignment.|
+| Component      | Focus & Purpose                                                                                                                                |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Navbar**     | Responsive navigation bars; brand placement; collapse behavior; navbar variants (light, dark); dropdown integration; sticky/fixed positioning. |
+| **Nav & Tabs** | Horizontal and vertical navigation; tab interfaces; pill styling; justified navigation; JavaScript tab switching; accessibility with ARIA.     |
+| **Breadcrumb** | Hierarchical navigation; divider customization; responsive breadcrumbs; accessibility with `aria-label`.                                       |
+| **Pagination** | Page navigation controls; sizing variants; active and disabled states; previous/next buttons; alignment.                                       |
 
 ### **1.6.2 Content Containers**
 
