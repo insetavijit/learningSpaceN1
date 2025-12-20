@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE - Bootstrap.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 APPLIED PRACTICE - Bootstrap"
+              "title": "Untitled 1"
             }
           }
         ]
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/1.2.1 Containers & Layout Boundaries.md",
+                "file": "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.2.1 Containers & Layout Boundaries.md",
                 "mode": "source",
                 "source": false
               },
@@ -249,11 +249,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be3de9755b7c81ae",
+  "active": "f0729291cb30c5df",
   "lastOpenFiles": [
-    "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/1.2.1 Containers & Layout Boundaries.md",
-    "Chet bootstrap - Responsive Container Variants.md",
     "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE - Bootstrap.md",
+    "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE",
+    "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.2.1 Containers & Layout Boundaries.md",
+    "Chet bootstrap - Responsive Container Variants.md",
     "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/Quizzes/Quizzes — Sectioning vs Grouping (HTML5).md",
     "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE — Bootstrap.md",
     "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/02 APPLIED PRACTICE — HTML5 2.md",
@@ -278,7 +279,6 @@
     "02 PHP + MySQL + WordPress/PHP/Supliments/Common String Functions — Expanded Table.md",
     "02 PHP + MySQL + WordPress/PHP/Supliments",
     "02 PHP + MySQL + WordPress/PHP/APPLIED PRACTICE/Control Flow & Iteration/Ternary-Operator.spl.md",
-    "02 PHP + MySQL + WordPress/PHP/APPLIED PRACTICE/Control Flow & Iteration/Switch-Match.spl.md",
     "02 PHP + MySQL + WordPress/PHP/APPLIED PRACTICE/Control Flow & Iteration",
     "02 PHP + MySQL + WordPress/PHP/APPLIED PRACTICE",
     "02 PHP + MySQL + WordPress/PHP/ACTIVE RECALL",
@@ -286,7 +286,6 @@
     "PHP2.0",
     "11th",
     "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/Quizzes",
-    "01 HTML + CSS + JavaScript + Bootstrap/01 HTML/SECTION 1 — CORE",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
