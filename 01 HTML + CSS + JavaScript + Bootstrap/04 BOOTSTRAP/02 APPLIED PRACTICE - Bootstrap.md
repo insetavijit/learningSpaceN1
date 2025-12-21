@@ -26,6 +26,12 @@ This section establishes Bootstrap's role as a component-based CSS framework and
 
 Bootstrap's 12-column grid system is the foundation of responsive layouts. This section teaches breakpoints, container types, column sizing, nesting, and responsive utilities. Learners master how Bootstrap translates mobile-first design principles into a flexbox-based grid that adapts across six default breakpoints. Understanding the grid is prerequisite to all Bootstrap layout work—it defines how content flows, stacks, and reorders across devices. The goal is to build fluid, responsive interfaces using Bootstrap's declarative column classes without writing custom media queries.
 
+```text
+.container, .container-fluid, .container-{bp}, xs, sm, md, lg, xl, xxl
+.col, .col-*, .col-{bp}-*, .g-*, .gx-*, .gy-*, .g-0, .order-*, .offset-*
+.row-cols-*, nested .row , .align-items-*, .align-self-*, .justify-content-*
+```
+
 | Topic                                        | Focus & Purpose                                                                                                                                 |
 | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | **[[1.2.1 Containers & Layout Boundaries]]** | `.container`, `.container-fluid`, and responsive container variants; max-width behavior; horizontal padding; container nesting rules.           |
