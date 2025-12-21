@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE - Bootstrap.md",
-                "mode": "source",
+                "file": "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.2.4 Gutters & Spacing.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 APPLIED PRACTICE - Bootstrap"
+              "title": "1.2.4 Gutters & Spacing"
+            }
+          },
+          {
+            "id": "d95f0789a9f3041d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.2.2 Breakpoints & Grid Tiers.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2.2 Breakpoints & Grid Tiers"
+            }
+          },
+          {
+            "id": "2eeff3a0b74a6903",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.2 Grid System & Responsive Layouts.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2 Grid System & Responsive Layouts"
             }
           }
         ]
@@ -216,8 +244,10 @@
   },
   "active": "5f588885eab5634a",
   "lastOpenFiles": [
-    "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE — Bootstrap.md",
     "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE - Bootstrap.md",
+    "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.2.2 Breakpoints & Grid Tiers.md",
+    "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.2 Grid System & Responsive Layouts.md",
+    "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE — Bootstrap.md",
     "01 HTML + CSS + JavaScript + Bootstrap/03 JAVASCRIPT/02 - JavaScript.md",
     "01 HTML + CSS + JavaScript + Bootstrap/02 CSS/02 APPLIED PRACTICE - CSS.md",
     "01 HTML + CSS + JavaScript + Bootstrap/02 CSS/02 APPLIED PRACTICE/02 APPLIED PRACTICE — Css.md",
@@ -237,12 +267,10 @@
     "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.2.7 Alignment & Distribution.md",
     "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/@Cheets/Chet bootstrap - Responsive Container Variants.md",
     "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/@Cheets",
-    "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.2 Grid System & Responsive Layouts.md",
     "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.2.6 Row Columns & Nesting.md",
     "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.2.4 Gutters & Spacing.md",
     "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.2.5 Column Ordering & Offsetting.md",
     "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.2.3 Grid Columns & Sizing.md",
-    "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.2.2 Breakpoints & Grid Tiers.md",
     "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.2.1 Containers & Layout Boundaries.md",
     "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE",
     "01 HTML + CSS + JavaScript + Bootstrap/02 CSS/02 APPLIED PRACTICE",
