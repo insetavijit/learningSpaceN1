@@ -8,15 +8,15 @@
 
 This section builds a rigorous mental model of JavaScript as a dynamically-typed, prototype-based language with first-class functions. Learners master variables, data types, operators, control flow, and the distinction between primitive and reference values. The objective is not merely to "write syntax," but to **understand JavaScript's execution model**—so every expression, statement, and value behaves predictably. Strong grounding here prevents type coercion bugs, establishes clear mental models for scope and hoisting, and provides the foundation for functions, objects, and asynchronous patterns that follow.
 
-|Topic|Focus & Purpose|
-|---|---|
-|**[[1.1.1 Variables & Scope Mechanics]]**|`var`, `let`, `const` declarations; block scope vs function scope; hoisting behavior; temporal dead zone; variable lifecycle and memory. Establishes the non-negotiable rules for variable access and lifetime.|
-|**[[1.1.2 Data Types & Type System]]**|Primitives (string, number, bigint, boolean, undefined, null, symbol); objects; dynamic typing; `typeof` operator; type coercion rules. Defines JavaScript's flexible type model and conversion behavior.|
-|**[[1.1.3 Operators & Expressions]]**|Arithmetic, comparison, logical, assignment operators; operator precedence; strict vs loose equality; nullish coalescing (`??`); optional chaining (`?.`). Critical for predictable value manipulation.|
-|**[[1.1.4 Control Flow & Conditionals]]**|`if`/`else`, `switch`, ternary operators; short-circuit evaluation; truthiness/falsiness; guard clauses. Encodes decision logic without ambiguity.|
-|**[[1.1.5 Loops & Iteration]]**|`for`, `while`, `do...while`; `for...in`, `for...of`; `break`, `continue`; iteration protocols. Defines repeating logic and traversal patterns.|
-|**[[1.1.6 Type Coercion & Truthiness]]**|Implicit type conversion; falsy values (`false`, `0`, `""`, `null`, `undefined`, `NaN`); truthy values; coercion in comparisons; avoiding coercion pitfalls.|
-|**[[1.1.7 JavaScript Quirks & Edge Cases]]**|`typeof null === "object"`; `NaN` behavior and checking (`Number.isNaN()` vs `isNaN()`); `null` vs `undefined` vs undeclared; automatic semicolon insertion (ASI); `==` coercion edge cases. Critical for interview "gotcha" questions.|
+| Topic                                        | Focus & Purpose                                                                                                                                                                                                                         |
+| -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[1.1.1 Variables & Scope Mechanics]]**    | `var`, `let`, `const` declarations; block scope vs function scope; hoisting behavior; temporal dead zone; variable lifecycle and memory. Establishes the non-negotiable rules for variable access and lifetime.                         |
+| **[[1.1.2 Data Types & Type System]]**       | Primitives (string, number, bigint, boolean, undefined, null, symbol); objects; dynamic typing; `typeof` operator; type coercion rules. Defines JavaScript's flexible type model and conversion behavior.                               |
+| **[[1.1.3 Operators & Expressions]]**        | Arithmetic, comparison, logical, assignment operators; operator precedence; strict vs loose equality; nullish coalescing (`??`); optional chaining (`?.`). Critical for predictable value manipulation.                                 |
+| **[[1.1.4 Control Flow & Conditionals]]**    | `if`/`else`, `switch`, ternary operators; short-circuit evaluation; truthiness/falsiness; guard clauses. Encodes decision logic without ambiguity.                                                                                      |
+| **[[1.1.5 Loops & Iteration]]**              | `for`, `while`, `do...while`; `for...in`, `for...of`; `break`, `continue`; iteration protocols. Defines repeating logic and traversal patterns.                                                                                         |
+| **[[1.1.6 Type Coercion & Truthiness]]**     | Implicit type conversion; falsy values (`false`, `0`, `""`, `null`, `undefined`, `NaN`); truthy values; coercion in comparisons; avoiding coercion pitfalls.                                                                            |
+| **[[1.1.7 JavaScript Quirks & Edge Cases]]** | `typeof null === "object"`; `NaN` behavior and checking (`Number.isNaN()` vs `isNaN()`); `null` vs `undefined` vs undeclared; automatic semicolon insertion (ASI); `==` coercion edge cases. Critical for interview "gotcha" questions. |
 
 ---
 
