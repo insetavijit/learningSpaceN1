@@ -50,30 +50,41 @@ Bootstrap's 12-column grid system is the foundation of responsive layouts. This 
 
 Bootstrap provides typographic scale, text utilities, and content styling for consistent document structure. This section teaches how Bootstrap enhances native HTML typography with responsive sizing, utility classes, and semantic styling. Learners understand how to maintain readable, accessible text hierarchies while leveraging Bootstrap's pre-configured type system. The focus is on building content-rich pages with proper heading structures, lists, blockquotes, and inline text modifiers without reinventing typographic patterns.
 
+```
+.h1, .h2, .h3, .h4, .h5, .h6, .display-1, .display-2, .display-3, .display-4, .display-5, .display-6, .lead, .fs-1, .fs-2, .fs-3, .fs-4, .fs-5, .fs-6, .lh-1, .lh-sm, .lh-base, .lh-lg, .fw-bold, .fw-bolder, .fw-semibold, .fw-normal, .fw-light, .fw-lighter, .fst-italic, .fst-normal, .text-decoration-underline, .text-decoration-line-through, .text-decoration-none, .mark, .small, .font-monospace, .text-start, .text-center, .text-end, .text-sm-start, .text-sm-center, .text-sm-end, .text-md-start, .text-md-center, .text-md-end, .text-lg-start, .text-lg-center, .text-lg-end, .text-xl-start, .text-xl-center, .text-xl-end, .text-xxl-start, .text-xxl-center, .text-xxl-end, .text-lowercase, .text-uppercase, .text-capitalize, .list-unstyled, .list-inline, .list-inline-item, .list-group, .list-group-item, .list-group-item-action, .list-group-flush, .list-group-numbered, .list-group-horizontal, .list-group-horizontal-sm, .list-group-horizontal-md, .list-group-horizontal-lg, .list-group-horizontal-xl, .list-group-horizontal-xxl, .blockquote, .blockquote-footer
+
+```
+
 | Topic                                         | Focus & Purpose                                                                                                                                                       |
 | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **[[1.3.1 Headings & Display Typography]]**   | Heading classes (`.h1`–`.h6`); display headings (`.display-1`–`.display-6`); customizing heading styles; responsive heading sizes.                                    |
 | **[[1.3.2 Paragraphs & Body Text]]**          | Lead paragraphs (`.lead`); line height and spacing; text sizing utilities; responsive typography behavior.                                                            |
-| **[[1.3.3 Inline Text Elements]]**            | Bold, italic, underline, strikethrough, mark, small text utilities; semantic vs presentational styling; code and keyboard elements.                                   |
+| **[[1.3.3 Inline Text Elements]]**            | _Bold, italic, underline, strikethrough, mark, small text utilities_; semantic vs presentational styling; code and keyboard elements.                                 |
 | **[[1.3.4 Text Alignment & Transformation]]** | Alignment classes (`.text-start`, `.text-center`, `.text-end`); text transformation (`.text-lowercase`, `.text-uppercase`, `.text-capitalize`); responsive alignment. |
 | **[[1.3.5 Lists & List Groups]]**             | Unstyled lists (`.list-unstyled`); inline lists (`.list-inline`); definition lists; list group components for interactive lists.                                      |
 | **[[1.3.6 Blockquotes & Citations]]**         | `.blockquote` styling; footer attribution; reverse blockquotes; quote alignment.                                                                                      |
 
 ---
 
-## **1.4 Color System & Utilities**
+## **[[1.4 Color System & Utilities]]**
 
 ### **Learning Intent (~80–90 words)**
 
 Bootstrap's color system provides semantic theme colors and contextual utilities. This section teaches background colors, text colors, border colors, and how to maintain accessible color contrast. Learners understand the difference between decorative and semantic color usage, how Bootstrap's color palette maps to UI intent (primary, success, danger, etc.), and how to extend the color system via Sass. The goal is to apply color consistently while respecting WCAG accessibility guidelines that Bootstrap enforces through its default palette.
 
-|Topic|Focus & Purpose|
-|---|---|
-|**[[1.4.1 Theme Colors & Semantic Palette]]**|Primary, secondary, success, danger, warning, info, light, dark colors; when to use each; contextual meaning of colors.|
-|**[[1.4.2 Background Colors]]**|`.bg-*` utilities; `.text-bg-*` combinations for accessible contrast; gradient backgrounds (`.bg-gradient`); opacity utilities.|
-|**[[1.4.3 Text Colors]]**|`.text-*` color utilities; text opacity (`.text-opacity-*`); emphasis colors; link colors and hover states.|
-|**[[1.4.4 Border Colors & Utilities]]**|Border color classes (`.border-*`); border sides (`.border-top`, etc.); border width and style; removing borders.|
-|**[[1.4.5 Color Contrast & Accessibility]]**|WCAG AA/AAA compliance; contrast ratios; using `.text-bg-*` for automatic contrast; testing color accessibility.|
+```
+.bg-primary, .bg-secondary, .bg-success, .bg-danger, .bg-warning, .bg-info, .bg-light, .bg-dark, .bg-body, .bg-white, .bg-transparent, .bg-gradient, .bg-opacity-10, .bg-opacity-25, .bg-opacity-50, .bg-opacity-75, .bg-opacity-100, .text-bg-primary, .text-bg-secondary, .text-bg-success, .text-bg-danger, .text-bg-warning, .text-bg-info, .text-bg-light, .text-bg-dark, .text-primary, .text-secondary, .text-success, .text-danger, .text-warning, .text-info, .text-light, .text-dark, .text-body, .text-muted, .text-white, .text-black, .text-opacity-25, .text-opacity-50, .text-opacity-75, .text-opacity-100, .link-primary, .link-secondary, .link-success, .link-danger, .link-warning, .link-info, .link-light, .link-dark, .border, .border-0, .border-top, .border-end, .border-bottom, .border-start, .border-primary, .border-secondary, .border-success, .border-danger, .border-warning, .border-info, .border-light, .border-dark, .border-white, .border-opacity-10, .border-opacity-25, .border-opacity-50, .border-opacity-75, .border-opacity-100
+
+```
+
+| Topic                                         | Focus & Purpose                                                                                                                 |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **[[1.4.1 Theme Colors & Semantic Palette]]** | _Primary, secondary, success, danger, warning, info, light, dark colors_; when to use each; contextual meaning of colors.       |
+| **[[1.4.2 Background Colors]]**               | `.bg-*` utilities; `.text-bg-*` combinations for accessible contrast; gradient backgrounds (`.bg-gradient`); opacity utilities. |
+| **[[1.4.3 Text Colors]]**                     | `.text-*` color utilities; text opacity (`.text-opacity-*`); emphasis colors; link colors and hover states.                     |
+| **[[1.4.4 Border Colors & Utilities]]**       | Border color classes (`.border-*`); border sides (`.border-top`, etc.); border width and style; removing borders.               |
+| **[[1.4.5 Color Contrast & Accessibility]]**  | WCAG AA/AAA compliance; contrast ratios; using `.text-bg-*` for automatic contrast; testing color accessibility.                |
+
 
 ---
 
