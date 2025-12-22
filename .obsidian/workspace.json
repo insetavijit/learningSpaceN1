@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.1.1 Variables & Scope Mechanics.md",
+                "file": "JS01 Concept of Variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1.1 Variables & Scope Mechanics"
+              "title": "JS01 Concept of Variables"
             }
           }
         ]
@@ -216,10 +216,11 @@
   },
   "active": "ad974d1c41c42453",
   "lastOpenFiles": [
+    "@Prompts/Answer Prompt - 1.md",
+    "JS01 Concept of Variables.md",
+    "1.1.1 Variables & Scope Mechanics.md",
     "01 HTML + CSS + JavaScript + Bootstrap/03 JAVASCRIPT/02 - JavaScript.md",
     "@Prompts/top 12 questions prompt.md",
-    "1.1.1 Variables & Scope Mechanics.md",
-    "@Prompts/Answer Prompt - 1.md",
     "Untitled.md",
     "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE - Bootstrap.md",
     "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/MAP Bootstrap.md",
@@ -241,7 +242,6 @@
     "03 MongoDB + Express + React + Node/02 MongoDB.md",
     "02 PHP + MySQL + WordPress/PHP/02 Syllabus PHP.md",
     "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.2.5 Column Ordering & Offsetting.md",
-    "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.2.7 Alignment & Distribution.md",
     "@Prompts",
     "@bin/02 APPLIED PRACTICE",
     "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/@Cheets",
