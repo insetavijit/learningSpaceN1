@@ -18,8 +18,6 @@ This section establishes Bootstrap's role as a component-based CSS framework and
 |**[[1.1.4 Browser Support & Compatibility]]**|Supported browsers and versions; polyfills and fallbacks; testing strategies; graceful degradation patterns.|
 |**[[1.1.5 Bootstrap JavaScript Dependencies]]**|Popper.js requirement for positioning; bundle vs separate JavaScript files; component JavaScript dependencies; module vs UMD builds.|
 
----
-
 ## **[[1.2 Grid System & Responsive Layouts]]**
 
 ### **Learning Intent (~90–100 words)**
