@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.3 Typography & Content Styling.md",
+                "file": "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.3.3 Inline Text Elements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3 Typography & Content Styling"
+              "title": "1.3.3 Inline Text Elements"
             }
           }
         ]
@@ -214,8 +214,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3ea8d591869e90f",
+  "active": "ad974d1c41c42453",
   "lastOpenFiles": [
+    "@Prompts/Answer Prompt - 1.md",
+    "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.3.3 Inline Text Elements.md",
+    "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.3 Typography & Content Styling.md",
+    "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.3.2 Paragraphs & Body Text.md",
+    "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.3.1 Headings & Display Typography.md",
     "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/Bootstrap Syllabus -v3.md",
     "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.4 Color System & Utilities.md",
     "01 HTML + CSS + JavaScript + Bootstrap/04 BOOTSTRAP/02 APPLIED PRACTICE/1.2 Grid System & Responsive Layouts.md",
@@ -238,11 +243,6 @@
     "Git/APPLIED - GIT",
     "ultimate 1.md",
     "02 PHP + MySQL + WordPress/PHP/5.0 STAYING CURRENT — PHP Ecosystem.md",
-    "02 PHP + MySQL + WordPress/PHP/Variable Declaration.md",
-    "02 PHP + MySQL + WordPress/PHP/Variables & types for php.md",
-    "02 PHP + MySQL + WordPress/PHP/Variables in PHP.md",
-    "02 PHP + MySQL + WordPress/PHP/APPLIED PRACTICE/Control Flow & Iteration/Loop-Control.spl.md",
-    "02 PHP + MySQL + WordPress/PHP/APPLIED PRACTICE/Control Flow & Iteration/Conditional-Logic.spl.md",
     "Notion",
     "@Prompts",
     "@bin/02 APPLIED PRACTICE",
