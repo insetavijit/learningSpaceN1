@@ -13,50 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "01 JCB + HTML/04 BOOTSTRAP/02 APPLIED PRACTICE - Bootstrap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 APPLIED PRACTICE - Bootstrap"
+            }
+          },
+          {
+            "id": "0e512b469393af69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 JCB + HTML/04 BOOTSTRAP/02 APPLIED PRACTICE/Chapters/1.3 Typography & Content Styling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.3 Typography & Content Styling"
+            }
+          },
+          {
+            "id": "289f2468bf7acfd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 JCB + HTML/04 BOOTSTRAP/02 APPLIED PRACTICE/Chapters/1.2 Grid System & Responsive Layouts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2 Grid System & Responsive Layouts"
+            }
+          },
+          {
+            "id": "ab91dd65b1d73e18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "01 JCB + HTML/04 BOOTSTRAP/02 APPLIED PRACTICE/Chapters/1.1 Framework Philosophy & Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "1.1 Framework Philosophy & Setup"
-            }
-          },
-          {
-            "id": "196552d49e073391",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@Prompts/P5 - Chapter recall questions set.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "P5 - Chapter recall questions set"
-            }
-          },
-          {
-            "id": "f061ca9a68fbb374",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 JCB + HTML/04 BOOTSTRAP/02 APPLIED PRACTICE/TOPICs/1.2.3 Grid Columns & Sizing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.2.3 Grid Columns & Sizing"
-            }
-          },
-          {
-            "id": "8780b7594ec5d140",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
             }
           }
         ]
@@ -254,19 +258,19 @@
   },
   "active": "49dd1a3003ad472c",
   "lastOpenFiles": [
-    "1.1.3 Bootstrap vs Custom CSS.md",
-    "01 JCB + HTML/04 BOOTSTRAP/02 APPLIED PRACTICE/Chapters/1.1 Framework Philosophy & Setup.md",
-    "01 JCB + HTML/04 BOOTSTRAP/02 APPLIED PRACTICE - Bootstrap.md",
-    "01 JCB + HTML/04 BOOTSTRAP/02 APPLIED PRACTICE/Chapters/1.3 Typography & Content Styling.md",
-    "01 JCB + HTML/04 BOOTSTRAP/02 APPLIED PRACTICE/Chapters/1.4 Color System & Utilities.md",
     "01 JCB + HTML/04 BOOTSTRAP/02 APPLIED PRACTICE/Chapters/1.7 Utility Classes & Helpers.md",
-    "@Prompts/P5 - Chapter recall questions set.md",
-    "01 JCB + HTML/04 BOOTSTRAP/02 APPLIED PRACTICE/Chapters/1.2 Grid System & Responsive Layouts.md",
-    "@Prompts/Topics table prompt.md",
-    "01 JCB + HTML/04 BOOTSTRAP/02 APPLIED PRACTICE/Chapters/1.5 Spacing & Sizing Utilities.md",
-    "01 JCB + HTML/04 BOOTSTRAP/02 APPLIED PRACTICE/TOPICs/1.2.3 Grid Columns & Sizing.md",
-    "01 JCB + HTML/04 BOOTSTRAP/02 APPLIED PRACTICE/TOPICs/1.3.1 Headings & Display Typography.md",
+    "01 JCB + HTML/04 BOOTSTRAP/02 APPLIED PRACTICE - Bootstrap.md",
     "01 JCB + HTML/04 BOOTSTRAP/02 APPLIED PRACTICE/Chapters/1.6 Components — Structure & Behavior.md",
+    "01 JCB + HTML/04 BOOTSTRAP/02 APPLIED PRACTICE/Chapters/1.5 Spacing & Sizing Utilities.md",
+    "01 JCB + HTML/04 BOOTSTRAP/02 APPLIED PRACTICE/Chapters/1.4 Color System & Utilities.md",
+    "01 JCB + HTML/04 BOOTSTRAP/02 APPLIED PRACTICE/Chapters/1.3 Typography & Content Styling.md",
+    "01 JCB + HTML/04 BOOTSTRAP/02 APPLIED PRACTICE/Chapters/1.2 Grid System & Responsive Layouts.md",
+    "01 JCB + HTML/04 BOOTSTRAP/02 APPLIED PRACTICE/Chapters/1.1 Framework Philosophy & Setup.md",
+    "01 JCB + HTML/04 BOOTSTRAP/02 APPLIED PRACTICE/TOPICs/1.2.3 Grid Columns & Sizing.md",
+    "@Prompts/P5 - Chapter recall questions set.md",
+    "1.1.3 Bootstrap vs Custom CSS.md",
+    "@Prompts/Topics table prompt.md",
+    "01 JCB + HTML/04 BOOTSTRAP/02 APPLIED PRACTICE/TOPICs/1.3.1 Headings & Display Typography.md",
     "01 JCB + HTML/04 BOOTSTRAP/02 APPLIED PRACTICE/TOPICs/1.2.1 Containers & Layout Boundaries.md",
     "01 JCB + HTML/04 BOOTSTRAP/@Cheets/Chet bootstrap - Responsive Container Variants.md",
     "01 JCB + HTML/04 BOOTSTRAP/02 APPLIED PRACTICE/TOPICs",
