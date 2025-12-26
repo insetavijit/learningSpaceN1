@@ -1,3 +1,15 @@
+---
+title: "CSS 3 - Quick Reference Map"
+type: doc-post
+framework: CSS
+tags:
+  - css
+  - frontend
+  - styling
+  - cheatsheet
+  - quick-reference
+created: 2025-12-26
+---
 ## 🔹 1.1 CSS Fundamentals & Setup
 
 - **Syntax & Rules** : selectors `{ property: value; }`
@@ -37,7 +49,7 @@
 - **Reset / Normalize** : reset.css, normalize.css
     
 
----
+
 
 ## 🔹 1.2 Box Model & Layout Basics
 
@@ -60,7 +72,7 @@
 - **Sizing** : `width/height`, `min-*`, `max-*`
     
 
----
+
 
 ## 🔹 1.3 Typography & Text Styling
 
@@ -87,7 +99,7 @@
 - **Quotes & Counters** : `quotes`, `counter-*`
     
 
----
+
 
 ## 🔹 1.4 Colors, Backgrounds & Borders
 
@@ -114,7 +126,7 @@
 - **Opacity** : alpha channels, `opacity`
     
 
----
+
 
 ## 🔹 1.5 Flexbox Layout
 
@@ -143,7 +155,7 @@
 - **Patterns** : centering, navbars, holy grail
     
 
----
+
 
 ## 🔹 1.6 Grid Layout
 
@@ -170,7 +182,7 @@
 - **Patterns** : magazine, dashboard
     
 
----
+
 
 ## 🔹 1.7 Responsive Design & Media Queries
 
@@ -191,7 +203,7 @@
 - **Feature Queries** : `@supports`
     
 
----
+
 
 ## 🔹 1.8 Transitions, Animations & Transforms
 
@@ -210,7 +222,7 @@
 - **Performance** : compositor-friendly props
     
 
----
+
 
 ## 🔹 1.9 Advanced Selectors, Pseudo-elements & Functions
 
@@ -231,7 +243,7 @@
 - **Clipping & Masking** : `clip-path`, `mask`
     
 
----
+
 
 ## 🔹 1.10 Modern & Emerging Features
 
@@ -256,7 +268,7 @@
 - **Accessibility Media** : `prefers-reduced-motion`, `color-scheme`
     
 
----
+
 
 If you want, next I can:
 

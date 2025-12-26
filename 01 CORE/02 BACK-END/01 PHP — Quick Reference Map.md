@@ -1,3 +1,18 @@
+---
+title: "PHP - Quick Reference Map"
+type: doc-post
+framework: PHP
+tags:
+  - php
+  - backend
+  - web
+  - programming
+  - cheatsheet
+  - quick-reference
+created: 2025-12-26
+---
+
+
 ## 🔹 1.1 PHP Fundamentals & Setup
 
 - **History & Versions** : PHP evolution, PHP 8.x features
@@ -33,7 +48,7 @@
 - **Configuration** : `php.ini` basics
     
 
----
+
 
 ## 🔹 1.2 Control Structures & Loops
 
@@ -60,7 +75,7 @@
 - **Best Practices** : safe inclusion patterns
     
 
----
+
 
 ## 🔹 1.3 Functions & Scope
 
@@ -85,7 +100,7 @@
 - **Generators** : `yield`, `yield from`
     
 
----
+
 
 ## 🔹 1.4 Arrays & Data Structures
 
@@ -108,7 +123,7 @@
 - **SPL Structures** : `SplFixedArray`, `ArrayObject`
     
 
----
+
 
 ## 🔹 1.5 Object-Oriented Programming
 
@@ -141,7 +156,7 @@
 - **Enums** : pure & backed (PHP 8.1+)
     
 
----
+
 
 ## 🔹 1.6 Error Handling & Exceptions
 
@@ -162,7 +177,7 @@
 - **Assertions** : `assert()`
     
 
----
+
 
 ## 🔹 1.7 Working with Forms & HTTP
 
@@ -183,7 +198,7 @@
 - **REST Concepts** : verbs, status codes
     
 
----
+
 
 ## 🔹 1.8 Strings & Regular Expressions
 
@@ -208,7 +223,7 @@
 - **Named Groups** : `(?<name>...)`
     
 
----
+
 
 ## 🔹 1.9 Databases & PDO
 
@@ -227,7 +242,7 @@
 - **Extensions** : SQLite, PostgreSQL
     
 
----
+
 
 ## 🔹 1.10 Security & Best Practices
 
@@ -254,7 +269,7 @@
 - **Vulnerabilities** : OWASP Top 10
     
 
----
+
 
 ## 🔹 1.11 Modern PHP Features & Ecosystem
 
@@ -279,7 +294,7 @@
 - **Refactoring** : Rector
     
 
----
+
 
 If you want, I can next:
 

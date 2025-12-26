@@ -1,3 +1,17 @@
+---
+title: "JavaScript - Quick Reference Map"
+type: doc-post
+framework: JavaScript
+tags:
+  - javascript
+  - js
+  - frontend
+  - programming
+  - cheatsheet
+  - quick-reference
+created: 2025-12-26
+---
+
 ## 🔹 1.1 JavaScript Fundamentals & Setup
 
 - **History & Standards** : JavaScript origins, ECMAScript (ES5 → ESNext)
@@ -37,7 +51,7 @@
 - **Environments** : Browser vs Node.js
     
 
----
+
 
 ## 🔹 1.2 Control Flow & Error Handling
 
@@ -62,7 +76,7 @@
 - **Defaults** : nullish coalescing `??`
     
 
----
+
 
 ## 🔹 1.3 Functions & Scope
 
@@ -97,7 +111,7 @@
 - **Async Functions** : `async / await`
     
 
----
+
 
 ## 🔹 1.4 Objects & Data Structures
 
@@ -124,7 +138,7 @@
 - **JSON** : `JSON.parse`, `JSON.stringify`
     
 
----
+
 
 ## 🔹 1.5 Arrays & Iteration
 
@@ -159,7 +173,7 @@
 - **Iterators** : `Symbol.iterator`
     
 
----
+
 
 ## 🔹 1.6 DOM Manipulation & Events
 
@@ -200,7 +214,7 @@
 - **Custom Events** : `new CustomEvent()`
     
 
----
+
 
 ## 🔹 1.7 Asynchronous JavaScript
 
@@ -229,7 +243,7 @@
 - **Web APIs** : `setTimeout`, `setInterval`, `requestAnimationFrame`
     
 
----
+
 
 ## 🔹 1.8 Advanced & Modern Features
 
@@ -256,7 +270,7 @@
 - **Logical Assignment** : `||=`, `&&=`, `??=`
     
 
----
+
 
 ## 🔹 1.9 Browser APIs & Web Features
 
@@ -295,7 +309,7 @@
 - **Fetch Control** : `AbortController`
     
 
----
+
 
 ## 🔹 1.10 Tooling, Testing & Best Practices
 
@@ -328,7 +342,7 @@
     - ARIA live regions
         
 
----
+
 
 If you would like, I can now:
 

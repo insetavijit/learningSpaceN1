@@ -1,3 +1,17 @@
+---
+title: "Python - Quick Reference Map"
+type: doc-post
+framework: Python
+tags:
+  - python
+  - backend
+  - scripting
+  - data-science
+  - programming
+  - cheatsheet
+  - quick-reference
+created: 2025-12-26
+---
 ## 🔹 1.1 Python Fundamentals & Setup
 
 - **History & Versions** : Python evolution, 3.x focus
@@ -25,7 +39,7 @@
 - **Core Types** : overview of built-ins
     
 
----
+
 
 ## 🔹 1.2 Data Types & Operations
 
@@ -48,7 +62,7 @@
 - **Augmented Assignment** : `+=`, `-=`, `*=`, etc.
     
 
----
+
 
 ## 🔹 1.3 Control Flow & Loops
 
@@ -69,7 +83,7 @@
 - **Pattern Matching** : `match / case` (3.10+)
     
 
----
+
 
 ## 🔹 1.4 Functions & Scope
 
@@ -98,7 +112,7 @@
 - **Coroutines** : `async def`, `await`
     
 
----
+
 
 ## 🔹 1.5 Modules, Packages & Imports
 
@@ -121,7 +135,7 @@
 - **Entry Points** : console scripts
     
 
----
+
 
 ## 🔹 1.6 Object-Oriented Programming
 
@@ -148,7 +162,7 @@
 - **Design** : composition vs inheritance
     
 
----
+
 
 ## 🔹 1.7 Error Handling & Exceptions
 
@@ -165,7 +179,7 @@
 - **Assertions** : `assert`
     
 
----
+
 
 ## 🔹 1.8 File Handling & I/O
 
@@ -184,7 +198,7 @@
 - **Serialization** : dump/load patterns
     
 
----
+
 
 ## 🔹 1.9 Advanced & Modern Features
 
@@ -209,7 +223,7 @@
 - **Exception Groups** : Python 3.11+
     
 
----
+
 
 ## 🔹 1.10 Standard Library Highlights
 
@@ -238,7 +252,7 @@
 - **Testing** : `unittest`, `doctest`
     
 
----
+
 
 ## 🔹 1.11 Ecosystem, Tooling & Best Practices
 
@@ -261,7 +275,7 @@
 - **PEPs** : PEP 8 (style), PEP 20 (Zen)
     
 
----
+
 
 If you want, I can now:
 

@@ -1,10 +1,16 @@
 ---
-title: "Bootstrap 5 — Quick Reference Map"
+title: "Bootstrap 5 - Quick Reference Map"
 type: doc-post
 framework: Bootstrap
-tags: [bootstrap, frontend, css, cheatsheet, quick-reference]
+tags:
+  - bootstrap
+  - frontend
+  - css
+  - cheatsheet
+  - quick-reference
 created: 2025-12-26
 ---
+
 
 ## 🔹 1.1 Framework Philosophy & Setup
 
@@ -37,7 +43,7 @@ created: 2025-12-26
 - **RTL Support** : `rtl.css`, logical properties
     
 
----
+
 
 ## 🔹 [[1.2 Grid System & Responsive Layouts]]
 
@@ -68,7 +74,7 @@ created: 2025-12-26
 - **Flex Integration** : grid + flex utilities
     
 
----
+
 
 ## 🔹 1.3 Typography & Content Styling
 
@@ -103,7 +109,7 @@ created: 2025-12-26
 - **Tables** : `.table`, `.table-striped`, `.table-hover`, `.table-bordered`, `.table-responsive`
     
 
----
+
 
 ## 🔹 1.4 Color System & Utilities
 
@@ -126,7 +132,7 @@ created: 2025-12-26
 - **Color Modes** : light, dark
     
 
----
+
 
 ## 🔹 1.5 Spacing & Sizing Utilities
 
@@ -151,7 +157,7 @@ created: 2025-12-26
 - **Gap vs Gutter** : flex/grid gap vs grid gutters
     
 
----
+
 
 ## 🔹 1.6 Components — Structure & Behavior
 
@@ -194,7 +200,7 @@ created: 2025-12-26
 - **JavaScript APIs** : `data-bs-*`, `new bootstrap.*()`
     
 
----
+
 
 ## 🔹 1.7 Utility Classes & Helpers
 
@@ -221,14 +227,3 @@ created: 2025-12-26
 - **Ratio / Embed** : `.ratio-*`
     
 - **Flow Helpers** : clearfix alternatives, `.vstack`, `.hstack`
-    
-
----
-
-If you want, next I can:
-
-- Add **`[[Wiki Links]]`** for each major section (e.g., `[[Grid System]]`, `[[Typography]]`).
-    
-- Split this into **multiple linked notes** for deep dives.
-    
-- Or adapt it into your **StudyMap** framework for active recall and practice.

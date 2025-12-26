@@ -1,3 +1,17 @@
+---
+title: "HTML 5 - Quick Reference Map"
+type: doc-post
+framework: HTML
+tags:
+  - html
+  - frontend
+  - markup
+  - cheatsheet
+  - quick-reference
+created: 2025-12-26
+---
+
+
 ## 🔹 1.1 HTML Document Fundamentals & Setup
 
 - **DOCTYPE** : `<!DOCTYPE html>`
@@ -33,7 +47,7 @@
 - **Compatibility** : modern browsers, fallbacks
     
 
----
+
 
 ## 🔹 1.2 Document Structure & Sectioning
 
@@ -58,7 +72,7 @@
 - **Semantic Flow** : outline algorithm, logical order
     
 
----
+
 
 ## 🔹 1.3 Text Content & Inline Semantics
 
@@ -93,7 +107,7 @@
 - **Generic Inline** : `<span>`
     
 
----
+
 
 ## 🔹 1.4 Lists & Tabular Data
 
@@ -120,7 +134,7 @@
 - **Responsive Tables** : wrappers, CSS overflow
     
 
----
+
 
 ## 🔹 1.5 Links, Navigation & Embedded Content
 
@@ -145,7 +159,7 @@
 - **Responsive Media** : `srcset`, `sizes`, art direction
     
 
----
+
 
 ## 🔹 1.6 Forms & Interactive Elements
 
@@ -173,7 +187,7 @@
 - **Form Accessibility** : `aria-describedby`, `aria-invalid`
     
 
----
+
 
 ## 🔹 1.7 Global Attributes & Accessibility
 
@@ -194,7 +208,7 @@
 - **Landmark Roles** : header, nav, main, footer
     
 
----
+
 
 ## 🔹 1.8 Scripting, Metadata & Advanced Features
 
@@ -219,7 +233,7 @@
 - **Feature Detection** : Modernizr, polyfills
     
 
----
+
 
 If you want, I can next:
 

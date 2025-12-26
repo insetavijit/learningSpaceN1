@@ -1,3 +1,18 @@
+---
+title: "Go - Quick Reference Map"
+type: doc-post
+framework: Go
+tags:
+  - go
+  - golang
+  - backend
+  - programming
+  - cheatsheet
+  - quick-reference
+created: 2025-12-26
+---
+****
+
 ## 🔹 1.1 Go Fundamentals & Setup
 
 - **History & Philosophy** : simplicity, readability, concurrency, performance
@@ -25,7 +40,7 @@
 - **Proxies & Checksums** : module proxy, checksum DB
     
 
----
+
 
 ## 🔹 1.2 Basic Syntax & Data Types
 
@@ -56,7 +71,7 @@
 - **Maps** : `make`, `delete`, `range`
     
 
----
+
 
 ## 🔹 1.3 Control Structures & Functions
 
@@ -83,7 +98,7 @@
 - **Init Functions** : `init()` hooks
     
 
----
+
 
 ## 🔹 1.4 Methods, Interfaces & Embedding
 
@@ -108,7 +123,7 @@
 - **Design** : composition over inheritance
     
 
----
+
 
 ## 🔹 1.5 Concurrency with Goroutines & Channels
 
@@ -133,7 +148,7 @@
 - **Patterns** : worker pools, fan-out/fan-in, pipelines
     
 
----
+
 
 ## 🔹 1.6 Error Handling & Logging
 
@@ -156,7 +171,7 @@
     - Third-party : zap, zerolog
         
 
----
+
 
 ## 🔹 1.7 Standard Library Highlights
 
@@ -181,7 +196,7 @@
 - **Unsafe** : `unsafe` (rare, careful use)
     
 
----
+
 
 ## 🔹 1.8 Generics (Go 1.18+)
 
@@ -198,7 +213,7 @@
 - **Patterns** : stacks, queues, option/result
     
 
----
+
 
 ## 🔹 1.9 Modules, Tooling & Dependency Management
 
@@ -221,7 +236,7 @@
 - **Fuzzing** : `go test -fuzz`
     
 
----
+
 
 ## 🔹 1.10 Advanced & Modern Features
 
@@ -246,7 +261,7 @@
 - **Context-Aware Patterns**
     
 
----
+
 
 ## 🔹 1.11 Ecosystem & Best Practices
 
@@ -275,7 +290,7 @@
     - RPC : `grpc-go`
         
 
----
+
 
 If you want, I can next:
 
