@@ -12,6 +12,34 @@ In interviews, you’re not judged on how many Bootstrap classes you can recite,
 | **[[1.7 Utility Classes & Helpers]]**         | Display utilities; flexbox utilities; positioning (static to sticky, offsets, z-index); border utilities; shadow utilities; visibility & opacity; overflow control; floats & clearfix; interaction helpers (user-select, pointer-events, cursor); vertical alignment utilities; responsive variants across breakpoints.                                                                                                                                              |
 |                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
+---
+
+```
+# 1.1 Framework Philosophy & Setup
+Framework philosophy & use cases; mobile-first design; Reboot for cross-browser normalization; Bootstrap vs custom CSS; when to use Bootstrap; installation via CDN (CSS & JS bundle, separate Popper); npm/yarn/pnpm installation; Sass source vs compiled assets; file structure & architecture (dist/, scss/, js/); customization entry points (Sass variables, maps, Utility API); theming & extending; browser support (modern browsers, no IE); polyfills & fallbacks (minimal needed); cross-browser testing; graceful degradation; JavaScript dependencies (Popper.js for positioning); bundle vs separate JS; module (ESM) vs UMD builds; RTL support.
+
+# 1.2 Grid System & Responsive Layouts
+Containers (.container, .container-fluid, .container-{breakpoint}); responsive variants & max-widths; padding & gutters; breakpoints (xs <576px, sm ≥576px, md ≥768px, lg ≥992px, xl ≥1200px, xxl ≥1400px); mobile-first tiers; 12-column grid; auto-layout columns (.col, .col-auto); fixed columns (.col-*); responsive spans (.col-{breakpoint}-*); gutters (.g-*, .gx-*, .gy-*, .g-0); ordering (.order-*, .order-{breakpoint}-*); offsets (.offset-*, .offset-{breakpoint}-*); row columns (.row-cols-*, .row-cols-auto); nesting grids; vertical alignment (.align-items-*, .align-self-*, .align-content-*); horizontal distribution (.justify-content-*); centering content; flexbox integration & utilities.
+
+# 1.3 Typography & Content Styling
+Headings (h1–h6) & display classes (.display-*); 
+typographic hierarchy & scale; paragraphs & .lead; font sizing utilities; line height & font weight; inline text elements & utilities (bold, italic, underline, strikethrough, mark, small, abbr); semantic vs utility-based styling; text alignment (.text-start, .text-center, .text-end) & responsive variants; text transformation (.text-lowercase, .text-uppercase, .text-capitalize); lists (ordered, unordered, unstyled .list-unstyled, inline .list-inline); description lists; list groups (.list-group, .list-group-item); blockquotes (.blockquote, .blockquote-footer); figures & captions; code & preformatted text; tables (basic, striped, hover, bordered, responsive).
+
+# 1.4 Color System & Utilities
+Theme & semantic colors (primary, secondary, success, info, warning, danger, light, dark); contextual variants; background utilities (.bg-*, .bg-gradient, .bg-opacity-*); text colors (.text-*, .text-opacity-*); text-bg-* for combined text/background; link colors & utilities; border colors (.border-*, .border-{side}-*); border width & style; opacity utilities; WCAG contrast ratios & accessibility guidelines; accessible color pairs; color mode support (light/dark).
+
+# 1.5 Spacing & Sizing Utilities
+Margin utilities (.m-*, .mx-*, .my-*, .ms-*, .me-*, .mt-*, .mb-*); padding utilities (.p-*, .px-*, .py-*, .ps-*, .pe-*, .pt-*, .pb-*); scale (0–5, auto); negative margins (.m-*-n); responsive variants ({breakpoint}- prefix); auto centering (.mx-auto); width & height utilities (.w-*, .h-*, .mw-100, .mh-100, .vw-100, .vh-100); min/max width/height; gap utilities (.gap-*, .row-gap-*, .column-gap-*); gap vs gutter distinction in grids.
+
+# 1.6 Components — Structure & Behavior
+Navigation (Navbar variants & responsiveness, Navs & Tabs, Breadcrumb, Pagination); content containers (Cards, Accordion, List Group, Jumbotron alternatives); forms (Form controls, Input Groups, Checks & Radios, Range, Floating Labels, Validation states, Form grid); feedback (Alerts, Toasts, Progress bars, Spinners & loaders); interactive (Buttons & Button Groups, Dropdowns, Collapse, Carousel, Modal, Offcanvas, Tooltip, Popover, Scrollspy); visual (Badges, Pill badges, Close button, Placeholders); variants (colors, sizes, outlines); responsiveness; accessibility features (ARIA); JavaScript behavior & data attributes.
+
+# 1.7 Utility Classes & Helpers
+Display utilities (.d-*, .d-{breakpoint}-* e.g., none, block, flex, grid); flexbox utilities (.flex-*, .flex-{direction}, .flex-wrap, .flex-grow/shrink); float utilities (.float-*-start/end); positioning (position utilities, top/start/bottom/end, z-index); border utilities (.border, .border-*, .rounded-*, .shadow-*); shadow & elevation; visibility & opacity (.visible, .invisible, .opacity-*); overflow control (.overflow-*); interaction helpers (.user-select-*, .pointer-events-*, .pe-none, .cursor-*); text utilities (truncation, word break, monospace); vertical alignment (.align-baseline etc.); responsive embed; clearfix alternatives with flow utilities.
+
+```
+
+---
 ### **S02 Applied — applied-bootstrap-development-layout-customization-integration**
    
 In applied front-end interviews, mastery of Bootstrap goes beyond knowing layout patterns or utility classes in isolation — interviewers are listening for candidates who can articulate why a given responsive layout, customization strategy, or framework integration is the right solution for a real design problem. They want to hear you justify trade-offs between using Bootstrap’s grid versus custom CSS, explain how you extend Bootstrap via Sass and build tools without sacrificing maintainability, and demonstrate how you integrate it cleanly with frameworks like React or Vue. Strong candidates also show awareness of responsive design strategies and optimization concerns — how images, lazy loading, and breakpoint strategies affect performance across devices. Ultimately, what interviewers infer is whether you can **apply Bootstrap pragmatically in production systems**, reason about performance and accessibility, and communicate these decisions clearly under questioning, rather than simply reciting component names or classes.
